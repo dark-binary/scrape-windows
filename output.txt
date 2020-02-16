@@ -1,0 +1,29 @@
+Scrape for Windows: 
+-----------------------------------------------
+  
+Total number of users: 
+3
+  
+List of all users: 
+\debac
+\temp0
+\temp1
+  
+-----------------------------------------------
+  
+Number of Admin users: 
+2
+  
+List of Admin users: 
+\debac
+\temp1
+  
+-----------------------------------------------
+  
+Number of Non-Admin users: 
+1
+  
+List of Non-Admin users: 
+\temp0
+  
+-----------------------------------------------
